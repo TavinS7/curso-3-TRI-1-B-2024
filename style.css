@@ -1,10 +1,12 @@
 body{
-color: whitesmoke;/*cor da fonte*/ 
+color: whitesmoke;/*cor da fonte*/
 background-color: black;/*cor de fundo*/
 font-size: 40px;/*tamanho da fonte*/ 
 }
 header{
 
     
-    border-bottom: solid 2px white; /*borda solida px preta*/;
+    border-bottom: solid 2px white;/*borda solida px preta*/
+    padding: 20px;/*espaçamento interno*/
+    font-size: 32px/*tamanho da fonte*/
 }
