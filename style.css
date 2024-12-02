@@ -5,9 +5,13 @@ font-size: 40px;/*tamanho da fonte*/
 }
 header{
 
-    
     border-bottom: solid 2px white;/*borda solida px preta*/
     padding: 20px;/*espaçamento interno*/
     font-size: 32px;/*tamanho da fonte*/
     color: rgb(0, 243, 231);/*cor da fonte*/
 }    
+
+section{
+background-color: azure;
+
+}
